@@ -1,21 +1,11 @@
-# Contraization – DevOps Lab 
-(Semester 6)
+# DevOps nd Contraization
+### Name -:Divyanshu Singh
+### Sap-id-:500122856
+### Batch-: CCVT batch-1
 
-> This repository contains **DevOps Laboratory experiments** for **Semester 6**, focusing on containerization, virtualization, and DevOps tools.
+# Lab
+[Lab-1](./Lab/Lab-1/)
 
----
+[Lab-2](./Lab/Lab-2/)
 
-## Student Details
-- **Name:** Divyanshu Singh  
-- **Course:** B.Tech  
-- **Sap-id:** 500122856 
-- **Subject:** DevOps Lab  
-
----
-
-## Lab
-1. [Experient vm vs conainer](./Lab/exp1/README.md)
-2. []()
-
-
-## Theory
+# Theory
