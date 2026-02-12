@@ -8,4 +8,6 @@
 
 [Lab-2](./Lab/Lab-2/)
 
+[Lab-3](./Lab/Lab-3/)
+
 # Theory
