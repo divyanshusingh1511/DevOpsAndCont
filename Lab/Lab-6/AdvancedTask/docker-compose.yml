@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  fastapi-app:
+    build: .
+    container_name: fastapi-app
+    ports:
+      - "8000:8000"
+    environment:
+      APP_ENV: production
+    volumes:
+      - ./app:/app   # For development mode (auto reload if used)
+    restart: unless-stopped

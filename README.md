@@ -10,4 +10,7 @@
 
 [Lab-3](./Lab/Lab-3/)
 
+
+[Lab-6](./Lab/Lab-6/)
+
 # Theory
