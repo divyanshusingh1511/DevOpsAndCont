@@ -12,16 +12,25 @@
 
 
 [Lab-6](./Lab/Lab-6/)
+
 [Lab-6](./Lab/Lab-7/)
+
 [Lab-6](./Lab/Lab-9/)
 
 # Theory
 [Ex-1](./Theory/ex-1/)
+
 [Ex-2](./Theory/ex-2/)
-[Ex-3](./Theory/ex-12//)
+
+[Ex-3](./Theory/ex-12/)
+
 [Ex-13](./Theory/ex-13/)
+
 [Ex-15](./Theory/ex-15/)
+
 [Ex-16](./Theory/ex-16/)
+
 [Ex-17](./Theory/AfterMIdClass_1/)
+
 [Ex-18](./Theory/AfterMidClass_2/)
 
