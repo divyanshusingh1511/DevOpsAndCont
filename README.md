@@ -17,6 +17,8 @@
 
 [Lab-9](./Lab/Lab-9/)
 
+[Lab-10](./Lab/Lab-10/)
+
 # Theory
 [Ex-1](./Theory/ex-1/)
 
