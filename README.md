@@ -10,6 +10,10 @@
 
 [Lab-3](./Lab/Lab-3/)
 
+[Lab-4](./Lab/Lab-4/)
+
+[Lab-5](./Lab/Lab-5/)
+
 
 [Lab-6](./Lab/Lab-6/)
 
@@ -18,6 +22,10 @@
 [Lab-9](./Lab/Lab-9/)
 
 [Lab-10](./Lab/Lab-10/)
+
+[Lab-11](./Lab/Lab-11/)
+
+[Lab-12](./Lab/Lab-12/)
 
 # Theory
 [Ex-1](./Theory/ex-1/)
