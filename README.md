@@ -19,7 +19,7 @@
 
 [Lab-6](./Lab/Lab-6/)
 
-[Lab-7](./Lab/Lab-7/)
+[Lab-7](./Lab/Lab-7/my-app/)
 
 [Lab-9](./Lab/Lab-9/)
 
